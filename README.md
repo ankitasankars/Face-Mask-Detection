@@ -4,6 +4,7 @@
 </div>
 <p align="center"><img src="https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screen%20Shot%202020-05-14%20at%208.49.06%20PM.png" width="700" height="400"></p>
 
+
 ## TechStack/framework used
 
 - [OpenCV](https://opencv.org/)
